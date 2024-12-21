@@ -5,6 +5,8 @@ This project is a blockchain-based solution to incentivize and reward individual
 
 ## Contract Address
 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
+![image](https://github.com/user-attachments/assets/7d2cb1a1-2b54-4feb-8166-b9e074fb6871)
+
 
 ## Project Vision
 To create a global, decentralized platform where knowledge-sharing is incentivized, accessible, and transparent. By rewarding contributions, the project aims to foster collaboration and the creation of high-quality, verifiable knowledge accessible to all.
